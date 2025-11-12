@@ -11,7 +11,7 @@ This repository contains UI/UX design assets for an E-Commerce website project (
 - Assets: PNG pages (page1.png — page11.png) and `prototype clip.mp4` (interactive prototype recording)
 - Design tool: Figma (link not provided in repo). If you have the Figma project URL, add it below:
 
-Figma: [Add Figma project link here]
+Figma prototype: https://www.figma.com/proto/umimZL3CJB2gHSPuu4XG1k/Untitled?page-id=0%3A1&node-id=78-106&p=f&viewport=257%2C240%2C0.06&t=gW95jYLwFCMKnT6U-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=27%3A166
 # E-Commerce Website Design — Air Jordan (Figma)
 
 🏀 Air Jordan E-Commerce Website Design (Figma Project)
